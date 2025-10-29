@@ -46,3 +46,8 @@ A powerful and intuitive Bluetooth Low Energy (BLE) scanner and explorer built w
    ```bash
    git clone https://github.com/your-username/flutter-ble-explorer.git
    cd flutter-ble-explorer
+
+   flutter pub get 
+
+   flutter run
+
